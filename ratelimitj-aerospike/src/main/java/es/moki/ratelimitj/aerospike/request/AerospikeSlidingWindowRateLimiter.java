@@ -2,7 +2,6 @@ package es.moki.ratelimitj.aerospike.request;
 
 import com.aerospike.client.AerospikeClient;
 import com.aerospike.client.Key;
-import com.aerospike.client.Log;
 import com.aerospike.client.Operation;
 import com.aerospike.client.Record;
 import com.aerospike.client.Value;
